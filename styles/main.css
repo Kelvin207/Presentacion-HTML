@@ -111,17 +111,17 @@
       /* grid-row: 3; */
       /* background: url(../images/bk-5.jpg); */
 
-      grid-column: 3/3;
+      grid-column: 3/6;
       grid-row: 3;
       background: url(../images/bk-4.jpg);
       background: #d25637;
     }
     
-    .box-11 {
-      grid-column: 4/6;
-      grid-row: 3;
+    /* .box-11 {
+      grid-column: 3/6;
+      grid-row: 6;
       background: url(../images/bk-5.jpg);
-    }
+    } */
     .box-3, .box-4, .box-7, .box-9, .box-11{
         background-repeat: no-repeat;
         background-position: center;
